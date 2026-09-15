@@ -1,0 +1,38 @@
+{
+  "name": "emirustaoglu/barcode",
+  "version": "1.0.0",
+  "description": "Lightweight PHP library for generating QR codes and 1D/2D barcodes.",
+  "type": "library",
+  "homepage": "https://github.com/emirustaoglu/barcode",
+  "keywords": [
+    "barkod",
+    "php",
+    "barcode",
+    "qr",
+    "2D barcode"
+  ],
+  "authors": [
+    {
+      "name": "Yusuf Emir USTAOĞLU",
+      "email": "emiru893@gmail.com",
+      "homepage": "https://github.com/emirustaoglu"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  },
+  "suggest": {
+    "ext-gd": "Required only for PNG, JPEG and GIF output. SVG does not require GD."
+  },
+  "autoload": {
+    "psr-4": {
+      "emirustaoglu\\Barcode\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "emirustaoglu\\Barcode\\Tests\\": "tests/"
+    }
+  }
+}
