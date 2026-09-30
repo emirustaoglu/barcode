@@ -3,7 +3,9 @@
 [Türkçe](README.tr.md) · [English](README.md)
 
 [![Latest Version](https://img.shields.io/packagist/v/emirustaoglu/barcode.svg)](https://packagist.org/packages/emirustaoglu/barcode)
-[![PHP Version](https://img.shields.io/badge/php-%3E%3D8.1-777BB4.svg)](https://www.php.net/)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/emirustaoglu/barcode.svg)](https://packagist.org/packages/emirustaoglu/barcode/stats)
+[![Total Downloads](https://img.shields.io/packagist/dt/emirustaoglu/barcode.svg)](https://packagist.org/packages/emirustaoglu/barcode/stats)
+[![PHP Version](https://img.shields.io/badge/php-%3E%3D8.2-777BB4.svg)](https://www.php.net/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A lightweight PHP library for generating **QR codes and 1D/2D barcodes** without requiring a large external barcode framework.
