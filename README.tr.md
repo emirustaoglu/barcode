@@ -3,7 +3,9 @@
 [Türkçe](README.tr.md) · [English](README.md)
 
 [![Latest Version](https://img.shields.io/packagist/v/emirustaoglu/barcode.svg)](https://packagist.org/packages/emirustaoglu/barcode)
-[![PHP Version](https://img.shields.io/badge/php-%3E%3D8.1-777BB4.svg)](https://www.php.net/)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/emirustaoglu/barcode.svg)](https://packagist.org/packages/emirustaoglu/barcode/stats)
+[![Total Downloads](https://img.shields.io/packagist/dt/emirustaoglu/barcode.svg)](https://packagist.org/packages/emirustaoglu/barcode/stats)
+[![PHP Version](https://img.shields.io/badge/php-%3E%3D8.2-777BB4.svg)](https://www.php.net/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 PHP 8.1+ için geliştirilmiş, hafif ve bağımsız bir barkod üretim kütüphanesi.
